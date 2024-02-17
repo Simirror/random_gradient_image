@@ -1,7 +1,8 @@
 name: random_gradient_image
 description: "provider a random, gradinet, and beauti image."
-version: 0.0.1
-homepage: https://peegel.top/
+version: 0.0.2
+repository: https://github.com/Simirror/random_gradient_image
+
 
 environment:
   sdk: '>=3.2.6 <4.0.0'
